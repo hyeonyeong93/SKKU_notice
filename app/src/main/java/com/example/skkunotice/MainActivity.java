@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         // 알림 내용
         builder.setContentTitle("소프트웨어대학 공지사항");
-        builder.setContentText("2020 인공지능 데이터셋 경진대회");
+        builder.setContentText("2020 인공지능 데이터셋 경진대회 공지");
 
         builder.setColor(Color.GREEN);
 
